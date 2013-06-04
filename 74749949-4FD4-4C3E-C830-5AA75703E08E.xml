@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:project xmlns:arch="http://ochre.lib.uchicago.edu/schema/Project/Project.xsd" xmlns:oc="http://opencontext.org/schema/project_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="74749949-4FD4-4C3E-C830-5AA75703E08E" ownedBy="74749949-4FD4-4C3E-C830-5AA75703E08E">
+  <arch:name>
+    <arch:string>Barçın Höyük Zooarchaeology</arch:string>
+  </arch:name>
+  <oc:manage_info>
+    <oc:queryVal>Bar%C3%A7%C4%B1n+H%C3%B6y%C3%BCk+Zooarchaeology</oc:queryVal>
+    <oc:rootPath>/Turkey</oc:rootPath>
+    <oc:spaceCount>0</oc:spaceCount>
+    <oc:mediaCount>0</oc:mediaCount>
+    <oc:diaryCount>0</oc:diaryCount>
+    <oc:projGeoPoint>40.267036 29.602058</oc:projGeoPoint>
+  </oc:manage_info>
+  <arch:links>
+    <arch:docID type="spatialUnit" info="project root">3D2B02B5-B466-4679-A640-D8DF79B7AF1F</arch:docID>
+    <arch:docID type="person" info="Project Participant">4454975A-7847-47B5-C867-DC828582E1EF</arch:docID>
+    <oc:space_links>
+      <oc:link href="http://opencontext.org/subjects/3D2B02B5-B466-4679-A640-D8DF79B7AF1F">
+        <oc:name>Barcın Höyük</oc:name>
+        <oc:id>3D2B02B5-B466-4679-A640-D8DF79B7AF1F</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/1_Global_Spatial">
+              <oc:name>Turkey</oc:name>
+              <oc:id>1_Global_Spatial</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+    </oc:space_links>
+    <oc:person_links>
+      <oc:link href="http://opencontext.org/persons/4454975A-7847-47B5-C867-DC828582E1EF">
+        <oc:name>Alfred Galik</oc:name>
+        <oc:id>4454975A-7847-47B5-C867-DC828582E1EF</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+    </oc:person_links>
+  </arch:links>
+  <arch:notes>
+    <arch:note type="short_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">Zooarchaeology of Neolithic Phases at Barçın Höyük, Turkey</div>
+      </arch:string>
+    </arch:note>
+    <arch:note type="long_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">    <div>
+        
+        <h4>Introduction</h4>
+        <p>Barçın Höyük lies 5 km from the modern town of Yenişehir and south of the lake İznik. Barçın Höyük has evidence for occupation and use across a wide spectrum of archaeological periods. The site has a Byzantine graveyard, deposits from the Roman, Middle and Early Bronze Age, as well as deposits dating to the Chalcolithic and Neolithic periods. The Neolithic at Barçın Höyük is characterized by domestic refuse assigned to Phase VI. Excavators further subdivided Phase VI into multiple sub-phases, ranging from VIA (the latest sub-phase) to VIE (the earliest sub-phase). The complete time span for Phase VI lasts from 6000 to 6500 cal BC. </p>
+        <p>The archaeozoological material presented in this project covers phase VIA or VIB from trench L11, VIB from trench L11 (ca. 6200-5800) and phase VID out of trenches L13 and M10 (6500-6200).</p>
+        <p>The excavations are carried out as a part of the Eastern Mediterranean Early Farming Project by the Netherlands Institute in Turkey, under the direction Fokke Gerritsen.
+        The archaeozoological investigations are undertaken as a cooperation of the Netherlands Institute with Fokke Gerritsen and funded by the Austrian Science Fund Project no. P 19859-G02, the Start-Award of the Austrian Science Fund <em>Sesshafte bis protourbane Gesellschaften in Westanatolien</em> and the ERC-Project "From Sedentism to Protourban Societies in Western Anatolia", under direction of Barbara Horejs (Austrian Archaeological Institute, Vienna). </p>
+        
+        <h4>Methodology</h4>
+        
+        <p>[Forthcoming]</p>
+        
+        <h4>Potential Applications of Data</h4>
+        
+        <p>[Forthcoming]</p>
+        
+        <div resource="http://opencontext.org/subjects/3D2B02B5-B466-4679-A640-D8DF79B7AF1F">    
+            <div id="pub-2012-1" rel="dcterms:isReferencedBy" class="biblio-item">
+                <a style="display:none;" href="#pub-2012-1"> </a>
+                <div typeof="dcterms:BibliographicResource bibo:Thesis" resource="#pub-2012-1">
+                    <div property="dcterms:bibliographicCitation">
+                        <p class="authors">Würtenberger, Doris Anna</p>
+                        <div>
+                            <div class="pub-date">2012</div>
+                            <div class="ref-title-pub"><span class="collection-title">Archäozoologische Analysen am Fundmaterial des Barcın Höyüks im Vergleich mit ausgewählten Fundstellen des 7. und 6. Jt. v. Chr. in Nordwest- und Westanatolien.</span>. [Unpublished] Diplomathesis, University of Vienna. </div>
+                            <div class="ref-end"> </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="pub-2010-1" rel="dcterms:isReferencedBy" class="biblio-item">
+                <a style="display:none;" href="#pub-2010-1"> </a>
+                <div typeof="dcterms:BibliographicResource bibo:Article" resource="#pub-2010-1">
+                    <div property="dcterms:bibliographicCitation">
+                        <p class="authors">Gerritsen, F., Özbal R.,</p>
+                        <div>
+                            <div class="pub-date">2010</div>
+                            <div class="ref-title-pub">2009 Yili Barcın Höyük Kazıları. <span class="collection-title">Kazı Sonuçları Toplantasi</span>, 32(Cilt 2): 198–208.</div>
+                            <div class="ref-end"> </div>
+                        </div>
+                    </div>
+                    <div class="ref-links">
+                       [<a rel="dcterms:isPartOf" href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/32_kazi_2.pdf">Publisher Site (Open Access)</a>]
+                       [<a rel="dcterms:hasVersion" href="http://www.academia.edu/2419280/2009_YILI_BARCIN_HOYUK_KAZILARI">Open Access</a>]
+                    </div>
+                </div>
+            </div>
+            
+             <div id="pub-2008-1" rel="dcterms:isReferencedBy" class="biblio-item">
+                <a style="display:none;" href="#pub-2008-1"> </a>
+                <div typeof="dcterms:BibliographicResource bibo:Article" resource="#pub-2008-1">
+                    <div property="dcterms:bibliographicCitation">
+                        <p class="authors">Gerritsen, F., Özbal R.,</p>
+                        <div>
+                            <div class="pub-date">2008</div>
+                            <div class="ref-title-pub">Barcin Höyük Excavations, 2007. <span class="collection-title">Kazı Sonuçları Toplantasi</span>, 30(Cilt 3): 457–464.</div>
+                            <div class="ref-end"> </div>
+                        </div>
+                    </div>
+                    <div class="ref-links">
+                       [<a rel="dcterms:isPartOf" href="http://www.kulturvarliklari.gov.tr/sempozyum_pdf/kazilar/30_kazi_3.pdf">Publisher Site (Open Access)</a>]
+                       [<a rel="dcterms:hasVersion" href="http://www.nit-istanbul.org/GerritsenOzbalKST2009.pdf">Open Access</a>]
+                    </div>
+                </div>
+            </div>
+            
+        </div>    
+        
+    </div></div>
+      </arch:string>
+    </arch:note>
+  </arch:notes>
+  <oc:metadata>
+    <dc:title>Barçın Höyük Zooarchaeology: (Overview)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-02-26</dc:date>
+    <dc:subject>Economy</dc:subject>
+    <dc:subject>Subsistence</dc:subject>
+    <dc:subject>Zooarchaeology</dc:subject>
+    <dc:subject>Turkey</dc:subject>
+    <dc:subject>Anatolia</dc:subject>
+    <dc:subject>Neolithic</dc:subject>
+    <dc:subject>Barçın Höyük</dc:subject>
+    <dc:subject>Agriculture</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/4454975A-7847-47B5-C867-DC828582E1EF">Alfred Galik</dc:creator>
+    <dc:identifier>http://opencontext.org/projects/74749949-4FD4-4C3E-C830-5AA75703E08E</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/74749949-4FD4-4C3E-C830-5AA75703E08E">Barçın Höyük Zooarchaeology</oc:project_name>
+    <oc:pub_date>2013-02-26T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Bar%C3%A7%C4%B1n+H%C3%B6y%C3%BCk+Zooarchaeology%3A+%28Overview%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Economy&amp;rft.subject=Subsistence&amp;rft.subject=Zooarchaeology&amp;rft.subject=Turkey&amp;rft.subject=Anatolia&amp;rft.subject=Neolithic&amp;rft.subject=Bar%C3%A7%C4%B1n+H%C3%B6y%C3%BCk&amp;rft.subject=Agriculture&amp;rft.creator=Alfred+Galik&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fprojects%2F74749949-4FD4-4C3E-C830-5AA75703E08E</oc:coins>
+  </oc:metadata>
+</arch:project>
