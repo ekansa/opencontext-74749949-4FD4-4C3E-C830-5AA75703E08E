@@ -41,10 +41,6 @@
                 <oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary>
                 <oc:label>Helix</oc:label>
               </oc:targetLink>
-              <oc:targetLink localType="property" localID="F673FC8A-98DA-4285-D21C-369477F230C5" localURI="http://opencontext.org/properties/F673FC8A-98DA-4285-D21C-369477F230C5" href="http://eol.org/pages/32609438">
-                <oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary>
-                <oc:label>Sheep/goat</oc:label>
-              </oc:targetLink>
             </oc:relationLink>
           </oc:linkedData>
         </arch:property>
@@ -142,7 +138,7 @@
   <oc:metadata>
     <dc:title>Barçın Höyük Zooarchaeology: Bone 3348 (Animal Bone)</dc:title>
     <dc:publisher>Open Context</dc:publisher>
-    <dc:date>2013-02-26</dc:date>
+    <dc:date>2013-06-04</dc:date>
     <dc:subject>Economy</dc:subject>
     <dc:subject>Subsistence</dc:subject>
     <dc:subject>Zooarchaeology</dc:subject>
@@ -155,7 +151,7 @@
     <dc:creator href="http://opencontext.org/persons/4454975A-7847-47B5-C867-DC828582E1EF">Alfred Galik</dc:creator>
     <dc:identifier>http://opencontext.org/subjects/B8F2B3D4-0EC3-4994-0595-1847DC27B8A1</dc:identifier>
     <oc:project_name href="http://opencontext.org/projects/74749949-4FD4-4C3E-C830-5AA75703E08E">Barçın Höyük Zooarchaeology</oc:project_name>
-    <oc:pub_date>2013-02-26T00:00:00-07:00</oc:pub_date>
+    <oc:pub_date>2013-06-04T00:00:00-07:00</oc:pub_date>
     <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Bar%C3%A7%C4%B1n+H%C3%B6y%C3%BCk+Zooarchaeology%3A+Bone+3348+%28Animal+Bone%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Economy&amp;rft.subject=Subsistence&amp;rft.subject=Zooarchaeology&amp;rft.subject=Turkey&amp;rft.subject=Anatolia&amp;rft.subject=Neolithic&amp;rft.subject=Bar%C3%A7%C4%B1n+H%C3%B6y%C3%BCk&amp;rft.subject=Agriculture&amp;rft.contributor=Alfred+Galik&amp;rft.creator=Alfred+Galik&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2FB8F2B3D4-0EC3-4994-0595-1847DC27B8A1</oc:coins>
     <oc:geo_reference>
       <oc:geo_lat>40.267036</oc:geo_lat>
@@ -165,18 +161,18 @@
         <oc:source_id>3D2B02B5-B466-4679-A640-D8DF79B7AF1F</oc:source_id>
       </oc:metasource>
     </oc:geo_reference>
-    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0">
       <oc:lic_name>Attribution</oc:lic_name>
       <oc:lic_vers>3</oc:lic_vers>
-      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0</oc:lic_URI>
       <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
     </oc:copyright_lic>
   </oc:metadata>
   <oc:social_usage>
-    <oc:last_updated>2013-05-19T07:20:58-07:00</oc:last_updated>
+    <oc:last_updated>2013-08-31T23:07:41-07:00</oc:last_updated>
     <oc:item_views>
       <oc:count>1</oc:count>
-      <oc:view_time>2013/05/19 07:20:58</oc:view_time>
+      <oc:view_time>2013/08/31 23:07:41</oc:view_time>
     </oc:item_views>
     <oc:user_tags>
       <oc:tag type="chronological" status="public">

@@ -28,23 +28,6 @@
           <oc:show_val>hand collected</oc:show_val>
         </arch:property>
         <arch:property>
-          <arch:variableID>189E3D91-410D-41E3-3597-E2E4C940F3A4</arch:variableID>
-          <arch:valueID>9621462E-8A6E-4830-ED12-217B782F5969</arch:valueID>
-          <oc:propid href="http://opencontext.org/properties/6A1D20FE-9F28-4B3F-FD21-9CA8CC74144B">6A1D20FE-9F28-4B3F-FD21-9CA8CC74144B</oc:propid>
-          <oc:var_label type="nominal">Mammal</oc:var_label>
-          <oc:show_val>Ovis/Capra</oc:show_val>
-          <oc:linkedData>
-            <oc:relationLink localType="variable" localID="189E3D91-410D-41E3-3597-E2E4C940F3A4" href="http://purl.org/NET/biol/ns#term_hasTaxonomy">
-              <oc:vocabulary href="http://purl.org/NET/biol/ns#">Biological Taxonomy Vocabulary</oc:vocabulary>
-              <oc:label>Has Biological Taxonomy</oc:label>
-              <oc:targetLink localType="property" localID="6A1D20FE-9F28-4B3F-FD21-9CA8CC74144B" localURI="http://opencontext.org/properties/6A1D20FE-9F28-4B3F-FD21-9CA8CC74144B" href="http://eol.org/pages/32609438">
-                <oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary>
-                <oc:label>Sheep/goat</oc:label>
-              </oc:targetLink>
-            </oc:relationLink>
-          </oc:linkedData>
-        </arch:property>
-        <arch:property>
           <arch:variableID>9DB5F81C-9E51-43E1-05CA-428136FB1582</arch:variableID>
           <arch:valueID>3BDB45C5-B31E-454D-DA8B-AAEEA973E383</arch:valueID>
           <oc:propid href="http://opencontext.org/properties/F673FC8A-98DA-4285-D21C-369477F230C5">F673FC8A-98DA-4285-D21C-369477F230C5</oc:propid>
@@ -57,10 +40,6 @@
               <oc:targetLink localType="property" localID="F673FC8A-98DA-4285-D21C-369477F230C5" localURI="http://opencontext.org/properties/F673FC8A-98DA-4285-D21C-369477F230C5" href="http://eol.org/pages/57691">
                 <oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary>
                 <oc:label>Helix</oc:label>
-              </oc:targetLink>
-              <oc:targetLink localType="property" localID="F673FC8A-98DA-4285-D21C-369477F230C5" localURI="http://opencontext.org/properties/F673FC8A-98DA-4285-D21C-369477F230C5" href="http://eol.org/pages/32609438">
-                <oc:vocabulary href="http://eol.org/">Encyclopedia of Life</oc:vocabulary>
-                <oc:label>Sheep/goat</oc:label>
               </oc:targetLink>
             </oc:relationLink>
           </oc:linkedData>
@@ -166,7 +145,7 @@
   <oc:metadata>
     <dc:title>Barçın Höyük Zooarchaeology: Bone 2300 (Animal Bone)</dc:title>
     <dc:publisher>Open Context</dc:publisher>
-    <dc:date>2013-02-26</dc:date>
+    <dc:date>2013-06-04</dc:date>
     <dc:subject>Economy</dc:subject>
     <dc:subject>Subsistence</dc:subject>
     <dc:subject>Zooarchaeology</dc:subject>
@@ -179,7 +158,7 @@
     <dc:creator href="http://opencontext.org/persons/4454975A-7847-47B5-C867-DC828582E1EF">Alfred Galik</dc:creator>
     <dc:identifier>http://opencontext.org/subjects/907F1301-A6DB-4D70-AA70-00497BB9C38C</dc:identifier>
     <oc:project_name href="http://opencontext.org/projects/74749949-4FD4-4C3E-C830-5AA75703E08E">Barçın Höyük Zooarchaeology</oc:project_name>
-    <oc:pub_date>2013-02-26T00:00:00-07:00</oc:pub_date>
+    <oc:pub_date>2013-06-04T00:00:00-07:00</oc:pub_date>
     <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Bar%C3%A7%C4%B1n+H%C3%B6y%C3%BCk+Zooarchaeology%3A+Bone+2300+%28Animal+Bone%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=Economy&amp;rft.subject=Subsistence&amp;rft.subject=Zooarchaeology&amp;rft.subject=Turkey&amp;rft.subject=Anatolia&amp;rft.subject=Neolithic&amp;rft.subject=Bar%C3%A7%C4%B1n+H%C3%B6y%C3%BCk&amp;rft.subject=Agriculture&amp;rft.contributor=Alfred+Galik&amp;rft.creator=Alfred+Galik&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F907F1301-A6DB-4D70-AA70-00497BB9C38C</oc:coins>
     <oc:geo_reference>
       <oc:geo_lat>40.267036</oc:geo_lat>
@@ -189,18 +168,18 @@
         <oc:source_id>3D2B02B5-B466-4679-A640-D8DF79B7AF1F</oc:source_id>
       </oc:metasource>
     </oc:geo_reference>
-    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0">
       <oc:lic_name>Attribution</oc:lic_name>
       <oc:lic_vers>3</oc:lic_vers>
-      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0</oc:lic_URI>
       <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
     </oc:copyright_lic>
   </oc:metadata>
   <oc:social_usage>
-    <oc:last_updated>2013-05-19T05:51:34-07:00</oc:last_updated>
+    <oc:last_updated>2013-08-31T23:07:17-07:00</oc:last_updated>
     <oc:item_views>
       <oc:count>1</oc:count>
-      <oc:view_time>2013/05/19 05:51:34</oc:view_time>
+      <oc:view_time>2013/08/31 23:07:17</oc:view_time>
     </oc:item_views>
     <oc:user_tags>
       <oc:tag type="chronological" status="public">
